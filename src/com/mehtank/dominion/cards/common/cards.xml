@@ -1,0 +1,11 @@
+<cards set="common">
+	<card name="Copper" cost="0" coin="1" pile="money"> <type>treasure</type> </card>
+	<card name="Silver" cost="3" coin="2" pile="money"> <type>treasure</type> </card>
+	<card name="Gold" cost="6" coin="3" pile="money"> <type>treasure</type> </card>
+	
+	<card name="Estate" cost="2" vp="1" pile="vp"> <type>victory</type> </card>
+	<card name="Duchy" cost="5" vp="3" pile="vp"> <type>victory</type> </card>
+	<card name="Province" cost="8" vp="6" pile="vp"> <type>victory</type> </card>
+	
+	<card name="Curse" cost="0" vp="-1" pile="vp"> <type>curse</type> </card>
+</cards>

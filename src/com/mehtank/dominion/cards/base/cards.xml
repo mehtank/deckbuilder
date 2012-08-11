@@ -1,0 +1,18 @@
+<cards set="base">
+	<card name="Bureaucrat" cost="4"> <type>action</type> <type>attack</type></card>
+	<card name="Cellar" cost="2"> <type>action</type> </card>
+	<card name="Chancellor" cost="3" addcoin="2"> <type>action</type> </card>
+	<card name="Chapel" cost="2"> <type>action</type> </card>
+	<card name="Feast" cost="4"> <type>action</type> </card>
+	<card name="Gardens" cost="4"> <type>victory</type> </card>
+	<card name="Militia" cost="4" addcoin="2"> <type>action</type> <type>attack</type></card>
+	<card name="Moat" cost="2" addcards="2"> <type>action</type> <type>reaction</type></card>
+	<card name="Moneylender" cost="4"> <type>action</type> </card>
+	<card name="Remodel" cost="4"> <type>action</type> </card>
+	<card name="Smithy" cost="4" addcards="1"> <type>action</type> </card>
+	<card name="Spy" cost="4" addactions="1" addcards="1"> <type>action</type> <type>attack</type> </card>
+	<card name="Thief" cost="4"> <type>action</type> <type>attack</type> </card>
+	<card name="Village" cost="3" addactions="2" addcards="1"> <type>action</type> </card>
+	<card name="Woodcutter" cost="3" addcoin="2" addbuys="1"> <type>action</type> </card>
+	<card name="Workshop" cost="3"> <type>action</type> </card>
+</cards>

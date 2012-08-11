@@ -1,0 +1,25 @@
+<cards set="common">
+	<card name="Copper">
+		<name>Copper</name>
+	</card>
+	<card name="Silver">
+		<name>Silver</name>
+	</card>
+	<card name="Gold">
+		<name>Gold</name>
+	</card>
+	
+	<card name="Estate">
+		<name>Estate</name>
+	</card>
+	<card name="Duchy">
+		<name>Duchy</name>
+	</card>
+	<card name="Province">
+		<name>Province</name>
+	</card>
+	
+	<card name="Curse">
+		<name>Curse</name>
+	</card>
+</cards>

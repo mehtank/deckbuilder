@@ -1,0 +1,79 @@
+<cards set="base">
+	<card name="Bureaucrat"> 
+		<name>Bureaucrat</name>
+		<desc>Gain a silver card; put it on top of your deck. Each other player reveals a Victory card from his hand and puts it on his deck (or reveals a hand with no Victory cards</desc>
+		<q1>put back on your deck</q1>
+	</card>
+	<card name="Cellar"> 
+		<name>Cellar</name>
+	    <desc>Discard any number of cards. +1 card per card discarded.</desc>
+	    <q1>discard</q1>
+	</card>
+	<card name="Chancellor"> 
+		<name>Chancellor</name>
+		<desc>You may immediately put your deck into your discard pile.</desc>
+		<q1>Discard entire deck</q1>
+		<q2>Pass</q2>
+	</card>	
+	<card name="Chapel">
+		<name>Chapel</name>
+		<desc>Trash up to 4 cards from your hand.</desc>
+		<q1>trash</q1>
+	</card>
+	<card name="Feast">
+		<name>Feast</name>
+		<desc>Trash this card. Gain a card costing up to ¤5.</desc>
+		<q1>gain</q1>
+	</card>
+	<card name="Gardens">
+		<name>Gardens</name>
+		<desc>Worth 1 VP for every 10 cards in your deck (rounded down).</desc>
+	</card>
+	<card name="Militia">
+		<name>Militia</name>
+		<desc>Each other player discards down to 3 cards in his hand.</desc>
+		<q1>keep</q1>
+	</card>
+	<card name="Moat">
+		<name>Moat</name>
+		<desc>When another player plays an Attack card, you may reveal this from your hand. If you do, you are unaffected by that Attack.</desc>
+	</card>
+	<card name="Moneylender">
+		<name>Moneylender</name>
+		<desc>Trash a Copper from your hand. If you do, +¤3.</desc>
+	</card>
+	<card name="Remodel">
+		<name>Remodel</name>
+		<desc>Trash a card from your hand. Gain a card costing up to ¤2 more than the trashed card.</desc>
+		<q1>remodel from</q1>
+		<q2>remodel into</q2>
+	</card>
+	<card name="smithy">
+		<name>Smithy</name>
+	</card>
+	<card name="Spy"> 
+		<name>Spy</name>
+		<desc>Each player (including you) reveals the top card of his deck and either discards it or puts it back, your choice.</desc>
+		<q1>revealed</q1>
+		<q2>Discard</q2>
+		<q3>Replace</q3>
+	</card>
+	<card name="Thief">
+		<name>Thief</name>
+		<desc>Each other player reveals the top 2 cards of his deck. If they revealed any Treasure cards, they trash one of them that you choose. You may gain any or all of these trashed cards. They discard the other revealed cards.</desc>
+		<q1>Select treasure to trash</q1>
+		<q2>Select treasure to gain</q2>
+		<q3>None</q3>
+	</card>
+	<card name="Village"> 
+		<name>Village</name>
+	</card>
+	<card name="Woodcutter">
+		<name>Woodcutter</name>
+	</card>
+	<card name="Workshop">
+		<name>Workshop</name>
+		<desc>Gain a card costing up to ¤4.</desc>
+		<q1>gain</q1>
+	</card>
+</cards>
